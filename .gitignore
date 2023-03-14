@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
+.vscode
+*.txt
+Thumbs.db
+vendor/*
+!vendor/frw
+tmp/logs/*
+ishop-tpl

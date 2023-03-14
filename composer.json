@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/frm",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "igorviv",
+      "email": "iupgrader@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "frw\\": "vendor/frw",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "^v5.7.3"
+  }
+}
