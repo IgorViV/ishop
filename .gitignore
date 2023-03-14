@@ -12,3 +12,4 @@ vendor/*
 !vendor/frw
 tmp/logs/*
 ishop-tpl
+config/config_db.php
